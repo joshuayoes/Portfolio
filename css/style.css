@@ -640,6 +640,23 @@ h5 {
 .htmlvideo {
     width: 100%;
     height: auto;
+    padding: 20px 0;
+}
+
+.my-1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+  
+.p-20 {
+    padding: 20px 0;
+}
+
+.modual-img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
 }
 
 

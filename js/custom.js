@@ -135,6 +135,10 @@ $(document).ready(function () {
         modalTarget: "modal-03"
     });
 
+    $("#demo04").animatedModal({
+        modalTarget: "modal-04"
+    });
+
     //$("#demo04,#demo05,#demo06,#demo07,#demo08,#demo09").animatedModal({modalTarget: "modal-03"});
 
 
