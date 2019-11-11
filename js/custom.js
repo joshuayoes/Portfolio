@@ -21,16 +21,12 @@ $(document).ready(function () {
     typewriter.typeString("Web Developer")
         .pauseFor(2000)
         .deleteAll()
-        .typeString("Motion Graphics Designer")
+        .typeString("React Developer")
         .pauseFor(2000)
         .deleteAll()
         .typeString("UX/UI Designer")
         .pauseFor(2000)
-        .deleteAll()
-        .typeString("Digital Marketer")
-        .pauseFor(2000)
         .start();
-
 
     // scroll menu
     var sections = $('.section'),
